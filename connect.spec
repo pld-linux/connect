@@ -1,5 +1,5 @@
 Summary:	Make TCP connection using SOCKS4/5 or HTTPS proxy
-Summary(pl):	Tworzenie po³±czeñ TCP poprzez proxy SOCKS4/5 lub HTTPS
+Summary(pl.UTF-8):   Tworzenie poÅ‚Ä…czeÅ„ TCP poprzez proxy SOCKS4/5 lub HTTPS
 Name:		connect
 Version:	1.96
 Release:	1
@@ -19,10 +19,10 @@ SOCKS and HTTPS proxy. It is mainly intended to be used as "proxy
 command" of OpenSSH. You can make SSH session beyond the firewall
 with this command.
 
-%description -l pl
-connect to proste polecenie przekazuj±ce tworz±ce po³±czenie sieciowe
-przez proxy SOCKS lub HTTPS. Powsta³o g³ównie z my¶l± o u¿ywaniu jako
-"proxy command" w OpenSSH. Pozwala nawi±zywaæ sesje SSH zza firewalli.
+%description -l pl.UTF-8
+connect to proste polecenie przekazujÄ…ce tworzÄ…ce poÅ‚Ä…czenie sieciowe
+przez proxy SOCKS lub HTTPS. PowstaÅ‚o gÅ‚Ã³wnie z myÅ›lÄ… o uÅ¼ywaniu jako
+"proxy command" w OpenSSH. Pozwala nawiÄ…zywaÄ‡ sesje SSH zza firewalli.
 
 %prep
 %setup -q -c -T
