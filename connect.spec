@@ -1,5 +1,5 @@
 Summary:	Make TCP connection using SOCKS4/5 or HTTPS proxy
-Summary(pl.UTF-8):   Tworzenie połączeń TCP poprzez proxy SOCKS4/5 lub HTTPS
+Summary(pl.UTF-8):	Tworzenie połączeń TCP poprzez proxy SOCKS4/5 lub HTTPS
 Name:		connect
 Version:	1.96
 Release:	1
