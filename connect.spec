@@ -9,7 +9,7 @@ Source0:	http://www.taiyo.co.jp/~gotoh/ssh/connect.c
 # NoSource0-md5:	b856937f1cdfca7a3ccfb2fac36ef726
 Source1:	http://www.taiyo.co.jp/~gotoh/ssh/connect.html
 # NoSource1-md5:	bb972b3a9d435c62023b355960d78f78
-URL:		http://www.taiyo.co.jp/~gotoh/ssh/connect.html
+URL:		http://www.meadowy.org/~gotoh/projects/connect
 Conflicts:	openssh-clients < 2:4.5p1-2
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
